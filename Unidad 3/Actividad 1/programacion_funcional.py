@@ -5,7 +5,7 @@ ventas_ejemplo = [
     {'id': 1, 'monto': 50},
     {'id': 2, 'monto': 150},
     {'id': 3, 'monto': 200},
-    {'id': 4, 'monto': 80},
+    {'id': 4, 'monto': 80}, 
     {'id': 5, 'monto': 300},
 ]
 
